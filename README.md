@@ -35,8 +35,8 @@ I enjoy problem-solving, coding, and continuously improving my technical skills.
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: *(add later)*
-- 💼 LinkedIn: *(add later)*
+- 📧 Email: kishoornm02@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/kishoornm/
 - 🌐 Portfolio: *(coming soon)*
 
 ---
